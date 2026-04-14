@@ -1,0 +1,14 @@
+name: sva-bioinformatics-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - r-base
+  - r-irkernel
+  - r-ggplot2
+  - r-survival
+  - r-limma
+  - bioconductor-sva
+  - r-matrixstats
